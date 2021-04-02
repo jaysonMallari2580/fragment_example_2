@@ -1,7 +1,0 @@
-com/example/android/newproject/MainActivity.java
- com.example.android.newproject.MainActivity
-com/example/android/newproject/BuildConfig.java
- com.example.android.newproject.BuildConfig
-com/example/android/newproject/SimpleFragment.java
- com.example.android.newproject.SimpleFragment
- com.example.android.newproject.SimpleFragment$1
